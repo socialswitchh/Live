@@ -1,0 +1,56 @@
+[28-Dec-2022 20:34:18 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/dpnve5kfrlq3/public_html/app.switchh.in/admin/ajax/login.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dpnve5kfrlq3/public_html/app.switchh.in/admin/ajax/login.php on line 9
+[28-Dec-2022 20:34:24 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/dpnve5kfrlq3/public_html/app.switchh.in/admin/ajax/login.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dpnve5kfrlq3/public_html/app.switchh.in/admin/ajax/login.php on line 9
+[28-Dec-2022 20:35:13 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/dpnve5kfrlq3/public_html/app.switchh.in/admin/ajax/login.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dpnve5kfrlq3/public_html/app.switchh.in/admin/ajax/login.php on line 9
+[28-Dec-2022 20:35:15 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/dpnve5kfrlq3/public_html/app.switchh.in/admin/ajax/login.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dpnve5kfrlq3/public_html/app.switchh.in/admin/ajax/login.php on line 9
+[28-Dec-2022 20:35:18 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/dpnve5kfrlq3/public_html/app.switchh.in/admin/ajax/login.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dpnve5kfrlq3/public_html/app.switchh.in/admin/ajax/login.php on line 9
+[28-Dec-2022 20:35:28 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/dpnve5kfrlq3/public_html/app.switchh.in/admin/ajax/login.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dpnve5kfrlq3/public_html/app.switchh.in/admin/ajax/login.php on line 9
+[28-Dec-2022 20:47:41 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/dpnve5kfrlq3/public_html/app.switchh.in/admin/ajax/login.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dpnve5kfrlq3/public_html/app.switchh.in/admin/ajax/login.php on line 9
+[28-Dec-2022 20:48:40 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/dpnve5kfrlq3/public_html/app.switchh.in/admin/ajax/login.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dpnve5kfrlq3/public_html/app.switchh.in/admin/ajax/login.php on line 9
+[28-Dec-2022 20:51:54 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/dpnve5kfrlq3/public_html/app.switchh.in/admin/ajax/login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dpnve5kfrlq3/public_html/app.switchh.in/admin/ajax/login.php on line 12
+[28-Dec-2022 20:52:32 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/dpnve5kfrlq3/public_html/app.switchh.in/admin/ajax/login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dpnve5kfrlq3/public_html/app.switchh.in/admin/ajax/login.php on line 12
+[28-Dec-2022 20:52:33 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/dpnve5kfrlq3/public_html/app.switchh.in/admin/ajax/login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dpnve5kfrlq3/public_html/app.switchh.in/admin/ajax/login.php on line 12
+[28-Dec-2022 20:58:12 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/dpnve5kfrlq3/public_html/app.switchh.in/admin/ajax/login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dpnve5kfrlq3/public_html/app.switchh.in/admin/ajax/login.php on line 12
+[06-Feb-2023 02:20:50 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/dpnve5kfrlq3/public_html/admin/ajax/login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dpnve5kfrlq3/public_html/admin/ajax/login.php on line 12
+[06-Feb-2023 02:20:53 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/dpnve5kfrlq3/public_html/admin/ajax/login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dpnve5kfrlq3/public_html/admin/ajax/login.php on line 12
