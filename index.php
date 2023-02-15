@@ -60,7 +60,7 @@ if(!isset($_SESSION['access_token']))
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-    <title> Switchh </title>
+    <title> Switchh Stage</title>
     <link rel="icon" type="image/png" href="assets/img/logo/light original logo 1.png" />
 
     <!-- Google Tag Manager -->
